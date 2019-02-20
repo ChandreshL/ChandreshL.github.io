@@ -1,8 +1,4 @@
----
-layout: post
-title: Chandresh Luhar
----
-
+# Chandresh Luhar
 
 ## Twitter tag search
 ### Java
